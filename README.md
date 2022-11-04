@@ -2,6 +2,12 @@
 
 This is the official implementation of Dynamic Bilinear Low-Rank Attention (DBA) on time series signal classification.
 
+## Citation
+If this repository is helpful to your research, we'd really appreciate it if you could cite the following paper:
+
+```
+```
+
 ## Requirements
 ```bash
 pip install -r requirements.txt
@@ -10,14 +16,14 @@ mkdir ./dataset
 ```
 
 ## Dataset
-Download the [dataset](http://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_ts.zip) and place it in the root folder as follows:
+Download the [UEA multivariate time series classification archive](http://www.timeseriesclassification.com/Downloads/Archives/Multivariate2018_ts.zip) and place it in the root folder as follows:
 
 ```angular2html
 |-- dataset
 	|-- Multivariate2018_ts
 	|  |-- Multivariate_ts
 	   |  |-- EthanolConcentration
-       |  |-- FaceDetection
+           |  |-- FaceDetection
            ...
 ```
 
