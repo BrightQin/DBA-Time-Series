@@ -5,6 +5,8 @@ This is the official implementation of Dynamic Bilinear Low-Rank Attention (DBA)
 ## Requirements
 ```bash
 pip install -r requirements.txt
+mkdir experiments
+mkdir dataset
 ```
 
 ## Dataset
