@@ -9,6 +9,9 @@ If this repository is helpful to your research, we'd really appreciate it if you
 ```
 
 ## Requirements
+### Hardware
+1 Nvidia GPU.
+### Software
 ```bash
 pip install -r requirements.txt
 mkdir ./experiments
