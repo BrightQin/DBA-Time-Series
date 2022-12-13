@@ -6,6 +6,20 @@ This is the official implementation of Dynamic Bilinear Low-Rank Attention (DBA)
 If this repository is helpful to your research, we'd really appreciate it if you could cite the following paper:
 
 ```
+@ARTICLE{2022arXiv221116368Q,
+       author = {{Qin}, Bosheng and {Li}, Juncheng and {Tang}, Siliang and {Zhuang}, Yueting},
+        title = "{DBA: Efficient Transformer with Dynamic Bilinear Low-Rank Attention}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Machine Learning},
+         year = 2022,
+        month = nov,
+          eid = {arXiv:2211.16368},
+        pages = {arXiv:2211.16368},
+archivePrefix = {arXiv},
+       eprint = {2211.16368},
+ primaryClass = {cs.LG},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv221116368Q},
+}
 ```
 
 ## Requirements
